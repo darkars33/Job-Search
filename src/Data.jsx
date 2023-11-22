@@ -16,7 +16,7 @@ const Data= [
           {
             "id": 1,
             "company": "Photosnap",
-            "logo": {photosnap},
+            "logo": photosnap,
             "new": true,
             "featured": true,
             "position": "Senior Frontend Developer",
@@ -31,7 +31,7 @@ const Data= [
           {
             "id": 2,
             "company": "Manage",
-            "logo": {manage},
+            "logo": manage,
             "new": true,
             "featured": true,
             "position": "Fullstack Developer",
@@ -46,7 +46,7 @@ const Data= [
           {
             "id": 3,
             "company": "Account",
-            "logo": {account},
+            "logo": account,
             "new": true,
             "featured": false,
             "position": "Junior Frontend Developer",
@@ -61,7 +61,7 @@ const Data= [
           {
             "id": 4,
             "company": "MyHome",
-            "logo": {myhome},
+            "logo": myhome,
             "new": false,
             "featured": false,
             "position": "Junior Frontend Developer",
@@ -76,7 +76,7 @@ const Data= [
           {
             "id": 5,
             "company": "Loop Studios",
-            "logo": {loopstudeio},
+            "logo": loopstudeio,
             "new": false,
             "featured": false,
             "position": "Software Engineer",
@@ -91,7 +91,7 @@ const Data= [
           {
             "id": 6,
             "company": "FaceIt",
-            "logo": {faceit},
+            "logo": faceit,
             "new": false,
             "featured": false,
             "position": "Junior Backend Developer",
@@ -106,7 +106,7 @@ const Data= [
           {
             "id": 7,
             "company": "Shortly",
-            "logo": {shortly},
+            "logo": shortly,
             "new": false,
             "featured": false,
             "position": "Junior Developer",
@@ -121,7 +121,7 @@ const Data= [
           {
             "id": 8,
             "company": "Insure",
-            "logo": {insure},
+            "logo": insure,
             "new": false,
             "featured": false,
             "position": "Junior Frontend Developer",
@@ -136,7 +136,7 @@ const Data= [
           {
             "id": 9,
             "company": "Eyecam Co.",
-            "logo": {eyecam},
+            "logo": eyecam,
             "new": false,
             "featured": false,
             "position": "Full Stack Engineer",
@@ -151,7 +151,7 @@ const Data= [
           {
             "id": 10,
             "company": "The Air Filter Company",
-            "logo": {airfilter},
+            "logo": airfilter,
             "new": false,
             "featured": false,
             "position": "Front-end Dev",
